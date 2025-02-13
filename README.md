@@ -1,6 +1,5 @@
-# TimeSeriesForecasting
+# Time Series Forecasting
 
-# **Time Series Forecasting for M5 Dataset**  
 - Developed a **CNN-LSTM model** for sequential and spatial feature extraction in sales forecasting.  
 - Optimized **LightGBM** with hyperparameter tuning for efficient gradient boosting.  
 - Engineered **calendar-based features, lag variables, and categorical encodings** to enhance predictions.  
